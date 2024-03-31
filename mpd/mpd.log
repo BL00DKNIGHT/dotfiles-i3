@@ -1,0 +1,620 @@
+Feb 05 17:16 : exception: Failed to open '/home/bl00d/.mpd/mpdstate': No such file or directory
+Feb 05 17:16 : config: option 'device' on line 13 was not recognized
+Feb 05 17:45 : config: option 'mixer_tube' on line 23 was not recognized
+Feb 06 07:57 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 08:50 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 09:22 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 09:29 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 09:42 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 09:47 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 09:50 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:00 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:04 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:13 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:26 : exception: No such directory
+Feb 06 10:26 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR OST.m3u': No such file or directory
+Feb 06 10:26 : exception: No such playlist
+Feb 06 10:27 : exception: No such directory
+Feb 06 10:27 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR OST.m3u': No such file or directory
+Feb 06 10:27 : exception: No such playlist
+Feb 06 10:27 : exception: No such directory
+Feb 06 10:27 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR OST.m3u': No such file or directory
+Feb 06 10:27 : exception: No such playlist
+Feb 06 10:27 : exception: No such directory
+Feb 06 10:27 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR OST.m3u': No such file or directory
+Feb 06 10:27 : exception: No such playlist
+Feb 06 10:32 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:33 : config: option 'mixer_tybe' on line 23 was not recognized
+Feb 06 10:35 : exception: No such directory
+Feb 06 10:35 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR OST.m3u': No such file or directory
+Feb 06 10:35 : exception: No such playlist
+Feb 06 10:35 : exception: No such directory
+Feb 06 10:35 : exception: Failed to open '/home/bl00d/.mpd/playlists/ALO.m3u': No such file or directory
+Feb 06 10:35 : exception: No such playlist
+Feb 06 10:36 : exception: Bad song index
+Feb 06 10:36 : exception: Bad song index
+Feb 06 10:36 : exception: Bad song index
+Feb 06 10:36 : exception: Bad song index
+Feb 06 10:36 : exception: Bad song index
+Feb 06 10:37 : exception: No such directory
+Feb 06 10:37 : exception: Failed to open '/home/bl00d/.mpd/playlists/MGRR.m3u': No such file or directory
+Feb 06 10:37 : exception: No such playlist
+Feb 06 10:37 : exception: Bad song index
+Feb 06 10:37 : exception: Bad song index
+Feb 06 10:37 : exception: Bad song index
+Feb 06 10:38 : exception: No such directory
+Feb 06 10:38 : exception: Failed to open '/home/bl00d/.mpd/playlists/AMOG.m3u': No such file or directory
+Feb 06 10:38 : exception: No such playlist
+Feb 06 10:38 : client: [2] command "close" during idle
+Feb 06 10:48 : exception: Bad song index
+Feb 06 10:49 : exception: No such directory
+Feb 06 10:49 : exception: Failed to open '/home/bl00d/.mpd/playlists/qwedasd.m3u': No such file or directory
+Feb 06 10:49 : exception: No such playlist
+Feb 06 10:49 : exception: Bad song index
+Feb 06 10:52 : update: added /The Only Thing I Know for Real (Maniac Mix).mp3
+Feb 06 10:54 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 11:03 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 11:08 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 11:19 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 11:26 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 11:30 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 11:30 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 11:30 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 11:31 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 11:32 : config: option 'mixer_tybe' on line 23 was not recognized
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 11:32 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 11:34 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 11:46 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 11:48 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 11:52 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 11:55 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:27 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:29 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:29 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:29 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:30 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:32 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 14:33 : config: option 'mixer_tybe' on line 23 was not recognized
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:33 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:34 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:40 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:40 : exception: Failed to open audio output
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:40 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:40 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:40 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:40 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : exception: All audio outputs are disabled
+Feb 06 14:45 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 14:46 : exception: All audio outputs are disabled
+Feb 06 14:46 : player: problems opening audio device while playing "The Only Thing I Know for Real (Maniac Mix).mp3"
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:46 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:47 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:48 : exception: No such directory
+Feb 06 14:48 : exception: Failed to open '/home/bl00d/.mpd/playlists/amogus.m3u': No such file or directory
+Feb 06 14:48 : exception: No such playlist
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:52 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:53 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 14:53 : config: option 'mixer_tybe' on line 23 was not recognized
+ALSA lib pcm_dmix.c:1000:(snd_pcm_dmix_open) unable to open slave
+Feb 06 14:53 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 06 14:54 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 14:54 : config: option 'device' on line 16 was not recognized
+Feb 06 14:55 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 15:12 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 15:18 : exception: Bad song index
+Feb 06 15:20 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 15:26 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 15:33 : config: option 'device' on line 16 was not recognized
+Feb 06 15:52 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 06 16:07 : config: option 'device' on line 16 was not recognized
+Feb 06 21:15 : config: option 'device' on line 16 was not recognized
+Feb 07 09:37 : config: option 'device' on line 16 was not recognized
+Feb 07 10:50 : exception: Bad song index
+Feb 07 10:51 : player: played "The Only Thing I Know for Real (Maniac Mix).mp3"
+Feb 07 10:51 : exception: Bad song index
+Feb 07 10:51 : update: removing The Only Thing I Know for Real (Maniac Mix).mp3
+Feb 07 10:51 : update: added MGRR OST/The Only Thing I Know for Real.mp3
+Feb 07 10:51 : update: added MGRR OST/Rules of Nature.mp3
+Feb 07 10:51 : update: added MGRR OST/The Stains of Time.mp3
+Feb 07 10:51 : update: added MGRR OST/It Has To Be This Way.mp3
+Feb 07 10:51 : update: added MGRR OST/A Stranger I Remain.mp3
+Feb 07 10:51 : update: added MGRR OST/Im My Own Master Now.mp3
+Feb 07 10:51 : update: added MGRR OST/The War Still Rages Within.mp3
+Feb 07 10:51 : update: added MGRR OST/Red Sun.mp3
+Feb 07 10:51 : update: added MGRR OST/Collective Consciousness.mp3
+Feb 07 10:51 : exception: Bad song index
+Feb 07 10:51 : exception: Bad song index
+Feb 07 11:22 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 11:25 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 11:28 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 11:30 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 11:33 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 07 14:13 : config: option 'device' on line 16 was not recognized
+Feb 07 15:41 : config: option 'device' on line 16 was not recognized
+Feb 07 15:46 : config: option 'device' on line 16 was not recognized
+Feb 07 16:09 : exception: Failed to create /home/bl00d/.mpd/mpdstate: No such file or directory
+Feb 07 16:16 : config: option 'device' on line 21 was not recognized
+Feb 07 16:19 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 16:28 : exception: Bad song index
+Feb 07 16:28 : exception: Bad song index
+Feb 07 16:30 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 16:30 : config: option 'device' on line 21 was not recognized
+Feb 07 16:31 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 16:33 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 16:36 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 16:38 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 16:43 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 16:45 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 16:47 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:09 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:12 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:14 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:16 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:18 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:20 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 17:24 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:27 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:29 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:31 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:34 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:36 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:39 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:41 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:43 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:45 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:47 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 17:58 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 18:04 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 18:56 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 19:07 : update: added /Sweet Dark.mp3
+Feb 07 19:07 : update: added /LEMMINO - Cipher.mp3
+Feb 07 19:07 : update: removing LEMMINO - Cipher.mp3
+Feb 07 19:07 : update: removing Sweet Dark.mp3
+Feb 07 19:07 : update: added CALMING/Sweet Dark.mp3
+Feb 07 19:07 : update: added CALMING/LEMMINO - Cipher.mp3
+Feb 07 19:21 : config: option 'device' on line 21 was not recognized
+Feb 07 19:21 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 07 19:21 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Feb 07 20:10 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 20:50 : config: option 'device' on line 21 was not recognized
+Feb 07 20:55 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 07 21:01 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 21:35 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 21:35 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Feb 07 21:36 : config: option 'device' on line 21 was not recognized
+Feb 07 21:45 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 21:47 : config: option 'device' on line 21 was not recognized
+Feb 07 21:58 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 22:06 : player: played "MGRR OST/Red Sun.mp3"
+Feb 07 22:14 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 07 22:27 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 07 22:30 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 22:32 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 07 22:35 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 07 22:38 : player: played "MGRR OST/Red Sun.mp3"
+Feb 08 00:07 : player: played "CALMING/Sweet Dark.mp3"
+Feb 08 08:56 : config: option 'device' on line 21 was not recognized
+Feb 08 13:56 : player: played "CALMING/Sweet Dark.mp3"
+Feb 08 14:52 : config: option 'device' on line 21 was not recognized
+Feb 08 15:19 : config: option 'device' on line 21 was not recognized
+Feb 08 16:22 : config: option 'device' on line 21 was not recognized
+Feb 08 17:32 : config: option 'device' on line 21 was not recognized
+Feb 08 17:46 : config: option 'device' on line 21 was not recognized
+Feb 08 17:52 : config: option 'device' on line 21 was not recognized
+Feb 08 17:56 : config: option 'device' on line 21 was not recognized
+Feb 08 19:27 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 08 19:30 : player: played "MGRR OST/Red Sun.mp3"
+Feb 08 20:12 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 08 20:15 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 08 21:24 : player: played "CALMING/Sweet Dark.mp3"
+Feb 08 22:19 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 09 00:13 : player: played "CALMING/Sweet Dark.mp3"
+Feb 09 08:53 : config: option 'device' on line 21 was not recognized
+Feb 09 12:21 : config: option 'device' on line 21 was not recognized
+Feb 09 15:09 : player: played "CALMING/Sweet Dark.mp3"
+Feb 10 09:19 : config: option 'device' on line 21 was not recognized
+Feb 10 14:12 : config: option 'device' on line 21 was not recognized
+Feb 10 17:21 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 10 17:27 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 10 22:23 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 10 22:25 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 10 22:35 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 10 22:38 : config: option 'device' on line 21 was not recognized
+Feb 11 00:16 : player: played "CALMING/Sweet Dark.mp3"
+Feb 11 10:22 : config: option 'device' on line 21 was not recognized
+Feb 11 11:46 : player: played "CALMING/Sweet Dark.mp3"
+Feb 12 08:52 : config: option 'device' on line 21 was not recognized
+Feb 12 13:38 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 12 14:04 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 12 14:07 : player: played "MGRR OST/Red Sun.mp3"
+Feb 12 14:09 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 12 14:16 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 12 19:16 : config: option 'device' on line 21 was not recognized
+Feb 12 19:26 : player: played "CALMING/Sweet Dark.mp3"
+Feb 12 19:48 : config: option 'device' on line 21 was not recognized
+Feb 15 11:28 : config: option 'device' on line 21 was not recognized
+Feb 15 15:22 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 15 15:31 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 15 15:34 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 15 15:59 : config: option 'device' on line 21 was not recognized
+Feb 15 20:47 : config: option 'device' on line 21 was not recognized
+Feb 15 23:26 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 16 08:21 : config: option 'device' on line 21 was not recognized
+Feb 16 13:56 : config: option 'device' on line 21 was not recognized
+Feb 16 14:51 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 17 17:17 : config: option 'device' on line 21 was not recognized
+Feb 17 18:34 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 17 18:37 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 17 18:40 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 17 18:42 : player: played "MGRR OST/Red Sun.mp3"
+Feb 17 21:29 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 17 21:32 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 17 21:39 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 17 21:44 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 17 23:21 : config: option 'device' on line 21 was not recognized
+Feb 18 09:13 : config: option 'device' on line 21 was not recognized
+Feb 18 09:15 : config: option 'device' on line 21 was not recognized
+Feb 18 09:43 : config: option 'device' on line 21 was not recognized
+Feb 18 12:07 : config: option 'device' on line 21 was not recognized
+Feb 18 13:33 : player: played "CALMING/Sweet Dark.mp3"
+Feb 19 16:36 : config: option 'device' on line 21 was not recognized
+Feb 19 16:43 : config: option 'device' on line 21 was not recognized
+Feb 21 08:57 : config: option 'device' on line 21 was not recognized
+Feb 21 09:12 : config: option 'device' on line 21 was not recognized
+Feb 21 09:15 : config: option 'device' on line 21 was not recognized
+Feb 25 09:07 : config: option 'device' on line 21 was not recognized
+Feb 25 09:15 : config: option 'device' on line 21 was not recognized
+Feb 25 09:41 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 25 09:44 : player: played "MGRR OST/Red Sun.mp3"
+Feb 25 09:47 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 25 09:50 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 25 09:57 : player: played "CALMING/Sweet Dark.mp3"
+Feb 25 09:57 : output: Failed to play on "pulse audio" (pulse): disconnected
+Feb 25 12:01 : config: option 'device' on line 21 was not recognized
+Feb 25 12:01 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Feb 25 12:52 : player: played "CALMING/Sweet Dark.mp3"
+Feb 25 16:11 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Feb 25 17:40 : config: option 'device' on line 21 was not recognized
+Feb 25 20:32 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 25 20:35 : player: played "MGRR OST/Collective Consciousness.mp3"
+Feb 25 20:37 : player: played "MGRR OST/Red Sun.mp3"
+Feb 25 20:39 : player: played "MGRR OST/The Stains of Time.mp3"
+Feb 25 20:42 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Feb 25 20:45 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 25 20:47 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 25 20:50 : player: played "MGRR OST/Rules of Nature.mp3"
+Feb 25 22:26 : player: played "CALMING/Sweet Dark.mp3"
+Feb 26 18:12 : config: option 'device' on line 21 was not recognized
+Feb 26 21:02 : player: played "CALMING/Sweet Dark.mp3"
+Feb 26 21:08 : config: option 'device' on line 21 was not recognized
+Mar 02 10:35 : config: option 'device' on line 21 was not recognized
+Mar 02 15:58 : player: played "CALMING/Sweet Dark.mp3"
+Mar 03 13:45 : config: option 'device' on line 21 was not recognized
+Mar 03 13:48 : player: played "CALMING/Sweet Dark.mp3"
+Mar 06 16:40 : config: option 'device' on line 21 was not recognized
+Mar 06 22:27 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 06 22:27 : player: played "CALMING/Sweet Dark.mp3"
+Mar 07 15:56 : config: option 'device' on line 21 was not recognized
+Mar 08 14:17 : config: option 'device' on line 21 was not recognized
+Mar 09 06:44 : config: option 'device' on line 21 was not recognized
+Mar 09 11:16 : config: option 'device' on line 21 was not recognized
+Mar 09 13:33 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 09 13:35 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Mar 09 13:43 : player: played "CALMING/Sweet Dark.mp3"
+Mar 09 14:14 : config: option 'device' on line 21 was not recognized
+Mar 09 14:26 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 09 14:26 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 09 14:38 : player: played "CALMING/Sweet Dark.mp3"
+Mar 09 14:40 : config: option 'device' on line 21 was not recognized
+Mar 09 20:20 : config: option 'device' on line 21 was not recognized
+Mar 09 23:19 : player: played "CALMING/Sweet Dark.mp3"
+Mar 10 06:23 : config: option 'device' on line 21 was not recognized
+Mar 10 07:36 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 10 07:39 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 10 07:42 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 10 07:44 : player: played "MGRR OST/Red Sun.mp3"
+Mar 10 07:47 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 10 08:31 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 10 09:03 : config: option 'device' on line 21 was not recognized
+Mar 10 11:34 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 10 11:37 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 10 11:50 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 10 12:05 : player: played "MGRR OST/Red Sun.mp3"
+Mar 10 12:08 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 10 12:11 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 10 12:14 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 10 12:16 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 10 13:10 : player: played "CALMING/LEMMINO - Cipher.mp3"
+Mar 10 13:10 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 10 13:13 : config: option 'device' on line 21 was not recognized
+Mar 10 18:00 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 10 18:03 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 10 18:05 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 10 18:08 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 10 21:59 : player: played "CALMING/Sweet Dark.mp3"
+Mar 11 15:27 : config: option 'device' on line 21 was not recognized
+Mar 11 21:16 : player: played "CALMING/Sweet Dark.mp3"
+Mar 12 15:23 : config: option 'device' on line 21 was not recognized
+Mar 12 16:19 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 12 16:22 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 12 16:36 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 12 16:39 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 12 16:41 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 12 16:45 : player: played "MGRR OST/Red Sun.mp3"
+Mar 12 19:35 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 12 19:38 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 12 19:41 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 12 19:44 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 12 19:46 : player: played "MGRR OST/Red Sun.mp3"
+Mar 12 19:49 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 12 19:53 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 12 21:20 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 12 21:20 : player: played "CALMING/LEMMINO - Cipher.mp3"
+Mar 13 16:12 : config: option 'device' on line 21 was not recognized
+Mar 13 16:38 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 13 16:41 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 13 17:28 : player: played "MGRR OST/Red Sun.mp3"
+Mar 13 21:05 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 13 21:10 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 13 21:13 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 13 21:16 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 13 21:18 : player: played "MGRR OST/Red Sun.mp3"
+Mar 13 21:20 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 13 21:23 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 13 22:20 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 14 15:29 : config: option 'device' on line 21 was not recognized
+Mar 14 15:30 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 14 15:32 : config: option 'device' on line 21 was not recognized
+Mar 14 16:22 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 14 16:25 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 14 16:27 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 14 16:30 : player: played "MGRR OST/Red Sun.mp3"
+Mar 14 16:32 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 14 16:39 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 14 20:49 : player: played "CALMING/Sweet Dark.mp3"
+Mar 15 17:09 : config: option 'device' on line 21 was not recognized
+Mar 15 17:35 : player: played "CALMING/Sweet Dark.mp3"
+Mar 15 20:38 : config: option 'device' on line 21 was not recognized
+Mar 15 22:12 : player: played "CALMING/Sweet Dark.mp3"
+Mar 16 07:26 : config: option 'device' on line 21 was not recognized
+Mar 16 12:19 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 16 12:35 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 16 12:37 : config: option 'device' on line 21 was not recognized
+Mar 16 13:15 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 16 13:18 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 16 13:20 : player: played "MGRR OST/Red Sun.mp3"
+Mar 16 13:22 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 16 13:25 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 16 13:35 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 16 15:14 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 16 15:23 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 16 15:26 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 16 15:28 : player: played "MGRR OST/Red Sun.mp3"
+Mar 16 15:43 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 16 15:49 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 17 06:33 : config: option 'device' on line 21 was not recognized
+Mar 17 08:20 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 08:23 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 08:26 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 08:39 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 08:41 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 08:44 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 17 08:47 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 17 09:07 : player: played "CALMING/Sweet Dark.mp3"
+Mar 17 09:07 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 09:07 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 09:08 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 09:11 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 09:13 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 17 09:16 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 17 09:23 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 09:30 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 09:43 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 17 09:52 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 10:30 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 10:33 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 10:35 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 10:42 : exception: No such directory
+Mar 17 10:42 : exception: No such directory
+Mar 17 10:43 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 10:44 : update: updating MGRR OST/A Stranger I Remain.mp3
+Mar 17 10:44 : update: updating CALMING/Sweet Dark.mp3
+Mar 17 10:46 : update: updating CALMING/LEMMINO - Cipher.mp3
+Mar 17 10:47 : update: updating MGRR OST/It Has To Be This Way.mp3
+Mar 17 10:47 : update: updating MGRR OST/The Stains of Time.mp3
+Mar 17 10:47 : update: updating MGRR OST/Red Sun.mp3
+Mar 17 10:47 : update: updating MGRR OST/Collective Consciousness.mp3
+Mar 17 10:48 : update: updating MGRR OST/The Only Thing I Know for Real.mp3
+Mar 17 10:48 : update: updating MGRR OST/Rules of Nature.mp3
+Mar 17 10:48 : update: updating MGRR OST/The War Still Rages Within.mp3
+Mar 17 10:48 : update: updating MGRR OST/Im My Own Master Now.mp3
+Mar 17 10:49 : update: updating CALMING/LEMMINO - Cipher.mp3
+Mar 17 10:53 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 17 11:07 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 11:36 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 12:14 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 12:16 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 13:42 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 13:44 : player: played "MGRR OST/Im My Own Master Now.mp3"
+Mar 17 13:56 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 17 14:01 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 16:40 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 16:56 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 17 17:00 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 17 17:23 : player: played "CALMING/Sweet Dark.mp3"
+Mar 17 19:03 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 17 19:06 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 17 19:09 : player: played "MGRR OST/Im My Own Master Now.mp3"
+Mar 17 20:37 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 17 20:40 : player: played "MGRR OST/Red Sun.mp3"
+Mar 17 21:25 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 21:29 : config: option 'device' on line 21 was not recognized
+Mar 17 21:29 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 21:31 : config: option 'device' on line 21 was not recognized
+Mar 17 21:32 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 21:33 : config: option 'device' on line 21 was not recognized
+Mar 17 21:38 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 17 21:39 : config: option 'device' on line 21 was not recognized
+Mar 17 21:42 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 18 07:18 : config: option 'device' on line 21 was not recognized
+Mar 18 11:07 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 18 11:09 : config: option 'device' on line 21 was not recognized
+Mar 18 18:03 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 18 18:05 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 18 21:03 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 18 21:03 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 18 21:10 : player: played "MGRR OST/Im My Own Master Now.mp3"
+Mar 18 21:13 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 18 21:16 : player: played "MGRR OST/Red Sun.mp3"
+Mar 18 21:18 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 18 21:20 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 18 21:52 : player: played "CALMING/Sweet Dark.mp3"
+Mar 19 15:58 : config: option 'device' on line 21 was not recognized
+Mar 19 16:23 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 19 16:26 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 19 16:48 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 19 17:22 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 19 17:30 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 19 19:32 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 19 19:32 : player: played "CALMING/Sweet Dark.mp3"
+Mar 20 16:03 : config: option 'device' on line 21 was not recognized
+Mar 20 16:03 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 20 16:03 : player: played "CALMING/Sweet Dark.mp3"
+Mar 20 19:28 : config: option 'device' on line 21 was not recognized
+Mar 20 20:10 : player: played "CALMING/Sweet Dark.mp3"
+Mar 20 22:13 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 20 22:15 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 20 22:20 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 20 22:23 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 20 22:25 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 20 22:30 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 20 22:57 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 20 23:00 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 20 23:17 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 21 16:48 : config: option 'device' on line 21 was not recognized
+Mar 21 17:19 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 21 17:22 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 21 17:24 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 21 23:53 : player: played "CALMING/LEMMINO - Cipher.mp3"
+Mar 22 15:24 : config: option 'device' on line 21 was not recognized
+Mar 22 21:59 : player: played "CALMING/Sweet Dark.mp3"
+Mar 23 06:40 : config: option 'device' on line 21 was not recognized
+Mar 23 07:32 : config: option 'device' on line 21 was not recognized
+Mar 23 08:05 : config: option 'device' on line 21 was not recognized
+Mar 23 09:12 : config: option 'device' on line 21 was not recognized
+Mar 23 11:40 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 23 11:56 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 23 12:25 : config: option 'device' on line 21 was not recognized
+Mar 23 19:45 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 23 21:12 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 23 21:12 : player: played "CALMING/Sweet Dark.mp3"
+Mar 23 21:13 : config: option 'device' on line 21 was not recognized
+Mar 23 21:50 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 24 07:33 : config: option 'device' on line 21 was not recognized
+Mar 24 08:01 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 24 09:20 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 24 17:28 : config: option 'device' on line 21 was not recognized
+Mar 24 19:03 : player: played "CALMING/LEMMINO - Cipher.mp3"
+Mar 24 19:05 : config: option 'device' on line 21 was not recognized
+Mar 24 20:56 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 24 21:01 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 24 21:26 : player: played "CALMING/Sweet Dark.mp3"
+Mar 25 15:19 : config: option 'device' on line 21 was not recognized
+Mar 25 15:19 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Mar 25 16:13 : player: played "CALMING/Sweet Dark.mp3"
+Mar 25 19:07 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 25 19:14 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 25 19:26 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 25 19:42 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 25 20:42 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 26 15:21 : config: option 'device' on line 21 was not recognized
+Mar 26 17:13 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 26 21:02 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 26 21:09 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 26 21:14 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 26 21:35 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 27 15:21 : config: option 'device' on line 21 was not recognized
+Mar 27 16:18 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 27 16:31 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 27 19:09 : config: option 'device' on line 21 was not recognized
+Mar 27 22:02 : player: played "CALMING/Sweet Dark.mp3"
+Mar 28 07:28 : config: option 'device' on line 21 was not recognized
+Mar 28 07:28 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Mar 28 08:22 : player: played "CALMING/Sweet Dark.mp3"
+Mar 28 12:50 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 28 20:04 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 28 21:09 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 28 22:06 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 28 22:21 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 28 22:28 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 29 01:28 : player: played "CALMING/LEMMINO - Cipher.mp3"
+Mar 29 08:17 : config: option 'device' on line 21 was not recognized
+Mar 29 10:06 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 29 11:14 : config: option 'device' on line 21 was not recognized
+Mar 29 12:18 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 29 12:56 : config: option 'device' on line 21 was not recognized
+Mar 29 13:17 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 29 13:21 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 29 13:22 : player: played "MGRR OST/Red Sun.mp3"
+Mar 29 13:23 : config: option 'device' on line 21 was not recognized
+Mar 29 16:22 : config: option 'device' on line 21 was not recognized
+Mar 29 16:30 : config: option 'device' on line 21 was not recognized
+Mar 29 19:21 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 19:21 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 19:23 : player: played "MGRR OST/Red Sun.mp3"
+Mar 29 20:19 : player: played "MGRR OST/The Only Thing I Know for Real.mp3"
+Mar 29 20:53 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 20:53 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 20:55 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 29 21:03 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 21:03 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 29 21:08 : player: played "MGRR OST/The War Still Rages Within.mp3"
+Mar 29 21:10 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 29 21:13 : config: option 'device' on line 21 was not recognized
+Mar 29 21:50 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 29 21:53 : player: played "MGRR OST/It Has To Be This Way.mp3"
+Mar 29 22:14 : player: played "MGRR OST/The Stains of Time.mp3"
+Mar 29 22:27 : player: played "MGRR OST/Im My Own Master Now.mp3"
+Mar 29 22:33 : player: played "MGRR OST/A Stranger I Remain.mp3"
+Mar 29 23:38 : player: played "CALMING/Sweet Dark.mp3"
+Mar 29 23:38 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 30 08:45 : config: option 'device' on line 21 was not recognized
+Mar 30 14:32 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 30 16:21 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 30 18:13 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 30 18:48 : player: played "MGRR OST/Collective Consciousness.mp3"
+Mar 30 18:50 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 30 19:13 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 30 23:01 : player: played "CALMING/Sweet Dark.mp3"
+Mar 30 23:03 : config: option 'device' on line 21 was not recognized
+Mar 31 02:20 : player: played "CALMING/Sweet Dark.mp3"
+Mar 31 11:44 : config: option 'device' on line 21 was not recognized
+Mar 31 09:29 : player: played "CALMING/Sweet Dark.mp3"
+Mar 31 13:30 : config: option 'device' on line 21 was not recognized
+Mar 31 11:46 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 31 11:47 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 31 14:05 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Mar 31 14:05 : player: played "MGRR OST/Rules of Nature.mp3"
+Mar 31 14:07 : config: option 'device' on line 21 was not recognized
+Mar 31 14:37 : player: played "MGRR OST/Rules of Nature.mp3"

@@ -1,0 +1,26 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:visualizer feed
+state: pause
+current: 0
+time: 317.996000
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:CALMING/LEMMINO - Cipher.mp3
+1:CALMING/Sweet Dark.mp3
+2:MGRR OST/Collective Consciousness.mp3
+3:MGRR OST/A Stranger I Remain.mp3
+4:MGRR OST/Im My Own Master Now.mp3
+5:MGRR OST/It Has To Be This Way.mp3
+6:MGRR OST/Red Sun.mp3
+7:MGRR OST/The Only Thing I Know for Real.mp3
+8:MGRR OST/The Stains of Time.mp3
+9:MGRR OST/The War Still Rages Within.mp3
+10:MGRR OST/Rules of Nature.mp3
+playlist_end
