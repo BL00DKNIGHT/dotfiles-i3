@@ -210,24 +210,27 @@ exec_always polybar main
 exec_always dunst -conf ~/.config/dunst/dunstrc
 
 # picom as compositor
-exec_always --no-startup-id 'pkill picom'
+#exec_always --no-startup-id 'pkill picom'
 exec_always --no-startup-id picom
 
 # set desktop background
-exec_always --no-startup-id ~/.fehbg &
-
-exec_always librewolf
+#exec_always --no-startup-id ~/.fehbg &
 
 # exec i3 plugins
 exec i3-layouts
 
-exec_always feh --randomize --bg-fill ~/Pictures/Wallpapers/*.png
+# wallpaper
+#exec_always feh --randomize --bg-fill ~/Pictures/Wallpapers/*.png
+exec_always wal -i ~/Pictures/Wallpapers/ &
 
 # Get the current wallpaper from .fehbg
-exec_always wallpaper="$(cat "${HOME}/.fehbg" | awk -F "'" '{print $2}')"
+#exec_always wallpaper="$(cat "${HOME}/.fehbg" | awk -F "'" '{print $2}')"
 
 # Apply pywal color scheme to desktop
-exec_always wal -i $wallpaper
+#exec_always wal -i $wallpaper
+
+# Misc.
+exec_always librewolf
 
 #######################################################################
 # automatically start i3-config-wizard to offer the user to create a
