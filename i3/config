@@ -51,10 +51,6 @@ bindsym Shift+Mod1+Return exec st
 # kill focused window
 bindsym Mod1+Shift+c kill
 
-# start dmenu (a program launcher)
-# bindsym Mod1+d exec dmenu_run
-# A more modern dmenu replacement is rofi:
-#bindsym Mod1+p exec "dmenu_run"
 bindsym Mod1+p exec "rofi -drun-use-desktop-cache -show run -sorting-method fzf -sort"
 
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -202,44 +198,19 @@ bindsym Mod1+$right       resize grow width 10 px or 10 ppt
 
 bindsym Print exec "flameshot gui"
 
-#Gaps are the main reason to use i3-gaps
 gaps inner 8
 
-# Use polybar instead of i3bar to display a workspace bar
-exec_always polybar main
-exec_always dunst -conf ~/.config/dunst/dunstrc
-
-# picom as compositor
-#exec_always --no-startup-id 'pkill picom'
+# Picom as compositor
 exec_always --no-startup-id picom
 
-# set desktop background
-#exec_always --no-startup-id ~/.fehbg &
-
 # exec i3 plugins
+exec --no-startup-id ~/.config/i3/alternating_layouts.py
 exec i3-layouts
 
-# wallpaper
-#exec_always feh --randomize --bg-fill ~/Pictures/Wallpapers/*.png
+# Wallpaper
 exec_always wal -i ~/Pictures/Wallpapers/ &
 
-# Get the current wallpaper from .fehbg
-#exec_always wallpaper="$(cat "${HOME}/.fehbg" | awk -F "'" '{print $2}')"
-
-# Apply pywal color scheme to desktop
-#exec_always wal -i $wallpaper
-
 # Misc.
+exec_always polybar main
+exec_always dunst -conf ~/.config/dunst/dunstrc
 exec_always librewolf
-
-#######################################################################
-# automatically start i3-config-wizard to offer the user to create a
-# keysym-based config which used their favorite modifier (alt or windows)
-#
-# i3-config-wizard will not launch if there already is a config file
-# in ~/.config/i3/config (or $XDG_CONFIG_HOME/i3/config if set) or
-# ~/.i3/config.
-#
-# Please remove the following exec line:
-#######################################################################
-#exec i3-config-wizard
