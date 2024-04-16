@@ -191,10 +191,17 @@ for_window [class=".*"] border pixel 0
 
 #bindsym Mod1+r mode "resize"
 
-bindsym Mod1+$left        resize shrink width 10 px or 10 ppt
-bindsym Mod1+$down        resize grow height 10 px or 10 ppt
-bindsym Mod1+$up          resize shrink height 10 px or 10 ppt
-bindsym Mod1+$right       resize grow width 10 px or 10 ppt
+bindsym Mod1+$left        resize shrink width 5 px or 5 ppt
+bindsym Mod1+$down        resize grow height 5 px or 5 ppt
+bindsym Mod1+$up          resize shrink height 5 px or 5 ppt
+bindsym Mod1+$right       resize grow width 5 px or 5 ppt
+
+bindsym Mod1+b               exec "polybar-msg cmd toggle"
+#bindsym Mod1+plus           exec "mpc volume +10" 
+#bindsym Mod1+KP_Add         exec "mpc volume +10"
+#bindsym Mod1+minus          exec "mpc volume -10"
+#bindsym Mod1+KP_Subtract    exec "mpc volume -10"
+#bindsym Mod1+KP_Enter       exec "mpc toggle"
 
 bindsym Print exec "flameshot gui"
 bindsym Mod1+Tab workspace back_and_forth
